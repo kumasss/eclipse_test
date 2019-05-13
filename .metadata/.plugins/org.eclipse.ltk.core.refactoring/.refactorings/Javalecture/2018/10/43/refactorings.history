@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="2 個の要素を &apos;Javalecture/src/study&apos; に移動&#x0A;- 元のプロジェクト: &apos;Javalecture&apos;&#x0A;- 宛先要素: &apos;Javalecture/src/study&apos;&#x0A;- オリジナル要素:&#x0A;     HelloWorld.java&#x0A;     Greeting.java&#x0A;- リファクタリングされた要素の参照を更新" description="コンパイル単位を移動" destination="/src&lt;study" element1="/src&lt;{HelloWorld.java" element2="/src&lt;{Greeting.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1540472864967" units="2" version="1.0"/>
+</session>
